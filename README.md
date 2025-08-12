@@ -1,4 +1,15 @@
-### Olá! Eu sou o Daniel Tambon! 🖐️
+# Hello, I'm Daniel Tambon 👋
+
+I am a Software Engineering student at UCSAL, expected to graduate in June 2028. I have a solid technical foundation, strengthened by four semesters in Computer Engineering at UFBA, which broadened my interdisciplinary perspective on technology.
+
+Currently, I work as an intern at SERPRO (Federal Data Processing Service), where I contribute to requirements analysis, development, prototyping, and client support. I was selected in two competitive recruitment processes, including a practical exam where I delivered a complete full-stack solution.
+
+I am also a student at Infinity School, an international technology and digital arts school, with expected completion in October 2025. There, I developed projects involving artificial intelligence and earned the top 1 position among more than 500 students.
+
+Additionally, I work on freelance web development projects, such as institutional websites for law firms, always focusing on practical and efficient solutions.
+
+Feel free to explore my repositories and get in touch if you'd like to connect or learn more!
+
 
 [![Instragam](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_devtambon_/)
 
